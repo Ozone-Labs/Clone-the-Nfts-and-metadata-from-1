@@ -2,6 +2,12 @@
 By this repo you can create the Multiple copies of any nfts and json into multiple with change in the json as well.
 
 
+make sure tyo install the some requirments:
+      1.Install Python (https://www.python.org/)
+      2.Install NPm package manager to install os and shutil or if you have you can escape it
+      3.Install The os (npm i os)
+      4.Install the shutil(pip install pytest-shutil)
+
 
 #1st Step
 simply copy and replace the main.png and main.son file with your own
