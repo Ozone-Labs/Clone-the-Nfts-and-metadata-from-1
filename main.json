@@ -1,0 +1,21 @@
+{
+  "name": "Ozone labs #0",
+  "description": "Ozone Labs is a developer Group which will provide the programming support to the nfts projects",
+  "image": "0.png",
+  "dna": "2691093cdf09feee2230b1bd72af06527ea1a6ad",
+  "edition": 0,
+  "date": 1648989798396,
+  "attributes": [
+    { "trait_type": "dev1", "value": "50 " },
+    {
+      "display_type": "dev2",
+      "trait_type": "200",
+      "value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Total  dev count",
+      "value": 2
+    }
+  ]
+}
